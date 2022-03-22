@@ -1,0 +1,4 @@
+﻿  UnitTest1.cpp
+C:\Users\Admin\Desktop\Лапка 1.1 ООП\Лапка 1.1 ООП\Лапка 1.1 ООП\Cursor.cpp(44,24): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Admin\Desktop\Лапка 1.1 ООП\Лапка 1.1 ООП\Лапка 1.1 ООП\Cursor.cpp(52,24): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Admin\Desktop\Лапка 1.1 ООП\Лапка 1.1 ООП\Лапка 1.1 ООП\Cursor.cpp(38): error C4716: 'Cursor::Read': must return a value
